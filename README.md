@@ -1,5 +1,7 @@
 ![Drawing of a boy with a hat](logo.png)
 
+[![npm version](https://badge.fury.io/js/denis-bot.svg)](https://badge.fury.io/js/denis-bot)
+
 ## Introduction
 
 Denis is a Slack bot. He can respond to commands and manage DNS zones, capable of things like adding A or CNAME records.
