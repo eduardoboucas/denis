@@ -1,10 +1,11 @@
 {
-  "name": "denis",
+  "name": "denis-bot",
   "version": "1.0.0",
   "description": "A friendly DNS management bot for Slack",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
   "author": "Eduardo Boucas <mail@eduardoboucas.com> (https://eduardoboucas.com/)",
   "license": "MIT",
