@@ -1,0 +1,16 @@
+{
+  "name": "denis",
+  "version": "1.0.0",
+  "description": "A friendly DNS management bot for Slack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eduardo Boucas <mail@eduardoboucas.com> (https://eduardoboucas.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "@slack/client": "^3.5.0",
+    "querystring": "^0.2.0",
+    "request-promise": "^3.0.0"
+  }
+}
