@@ -1,4 +1,4 @@
-![Drawing of a boy with a hat](logo.png)
+![Drawing of a boy with a hat](https://raw.githubusercontent.com/eduardoboucas/denis/master/logo.png)
 
 [![npm version](https://badge.fury.io/js/denis-bot.svg)](https://badge.fury.io/js/denis-bot)
 
