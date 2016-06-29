@@ -1,8 +1,10 @@
 ![Drawing of a boy with a hat](logo.png)
 
-## Overview
+## Introduction
 
 Denis is a Slack bot. He can respond to commands and manage DNS zones, capable of things like adding A or CNAME records.
+
+It was created as the solution to a development team having to keep track of numerous IP addresses for development APIs and servers, so we wanted a way to quickly point subdomains at them. It's still very basic at the moment, but Denis is a good kid and is eager to learn new tricks with your pull requests.
 
 ## Installation
 
