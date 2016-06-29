@@ -1,5 +1,9 @@
-Roadmap:
+![Drawing of a boy with a hat](logo.png)
 
-- [ ] Multiple providers
-- [ ] Central config file
-- [ ] Protected DNS records
+# Denis
+
+> A friendly DNS management bot for Slack
+
+---
+
+© 2016 Eduardo Bouças. Logo by Erik Kazuo Takara
