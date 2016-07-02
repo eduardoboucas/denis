@@ -62,4 +62,4 @@ Denis was built to support multiple DNS providers. Currently, only CloudFlare is
 
 ---
 
-© 2016 [Eduardo Bouças](https://eduardoboucas.com). Logo by Erik Kazuo Takara
+© 2016 [Eduardo Bouças](https://eduardoboucas.com). Logo by Erik Kuroow.
