@@ -8,6 +8,8 @@ Denis is a Slack bot. He can respond to commands and manage DNS zones, capable o
 
 It was created as the solution to a development team having to keep track of numerous IP addresses for development APIs and servers, so we wanted a way to quickly point subdomains at them. It's still very basic at the moment, but Denis is a good kid and is eager to learn new tricks from your pull requests.
 
+![Screen capture of Denis in action](https://raw.githubusercontent.com/eduardoboucas/denis/master/demo.gif)
+
 ## Installation
 
 1. `npm install denis-bot`
